@@ -1,0 +1,59 @@
+footer{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.boton{
+    border: 1px;
+    padding: 15px;
+    background-color: #0754e4;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 20px;
+    width: 20%;
+    text-align: center;
+}
+.boton:hover{
+    background-color: #10fdf1;
+}
+div{
+    display: inline-block;
+    color:#000000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#blog{
+    color:#000000 ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color:#000000;
+font-family: fantasy;
+font-size: 50px;
+text-align: center;
+font-style: oblique;
+}
+hr{
+    font-size: xx-large;
+}
+body{
+    margin-left: 2cm;
+    margin-top: 2cm;
+    background-image: linear-gradient(white,grey);
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000000;
+    text-decoration: underline;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000000;
+}
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000000;
+}
