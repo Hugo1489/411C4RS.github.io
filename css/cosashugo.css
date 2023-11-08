@@ -12,7 +12,12 @@ background-size: cover;
 ul{
 list-style-type: circle;
 }
-
+.iframe{
+border= 1cm
+   padding= 1cm
+   height=
+   width=
+}
 h2{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 font-style: oblique;
