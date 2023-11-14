@@ -34,7 +34,7 @@ table{
     text-align: center;
 }
 
-iframe {
+.iframe{
 width: 600px;
 height: 300px ;
 border: 5px solid #f72f2f ;
