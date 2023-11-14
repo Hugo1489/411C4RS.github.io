@@ -1,14 +1,14 @@
 body{
 
-    margin-left: "2cm";
-    margin-right: "2cm";
-    margin-top: "2cm";
-    margin-bottom: "2cm";
-    background-image: "linear-gradient"(white, blue);
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    background-image: linear-gradient(white, blue);
 background-repeat: no-repeat;
-height: "1200px";
+height: 1200px;
 background-size: cover;
-width: "100%";
+width: 100%;
 }
 ul{
 list-style-type: circle;
