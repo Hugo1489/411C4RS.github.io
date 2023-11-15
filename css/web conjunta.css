@@ -9,8 +9,8 @@ body{
     background-image: linear-gradient( rgb(162, 170, 162) 50%,rgb(99, 156, 221));
     background-repeat: no-repeat;
     background-size: cover;
-    height: 1250px;
-    width: 100%
+  
+   
 }
 p{
     text-align: left;
