@@ -11,6 +11,7 @@
 }
 .boton:hover{
     background-color: #10fdf1;
+    cursor: grab;
 }
 div{
     display: inline-block;
