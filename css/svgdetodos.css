@@ -12,5 +12,5 @@ iframe{
     width: 100%;
 }
 svg{
-    align-content: right;
+    float: right;
 }
