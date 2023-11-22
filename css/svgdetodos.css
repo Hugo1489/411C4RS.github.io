@@ -1,6 +1,6 @@
 boby{
 
-
+display: flex;
     margin-left: 2cm;
     margin-right: 2cm;
     margin-top: 2cm;
@@ -19,6 +19,6 @@ iframe{
 }
 svg{
     float: right;
-    float: top;
+
 }
 
