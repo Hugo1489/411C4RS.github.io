@@ -8,6 +8,43 @@
   <header>
 
  <img  src="img/foto.png"  width= "20%" alt=" Foto Hugo"> <h1>Hugo Ramos Díaz</h1>
+
+      
+
+<svg width="200" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <radialGradient id="radialgradient1" cx="50%" cy="50%" fx="50%" fy="50%" r="50%" >
+            <stop offset="0" stop-color="#ff0000" stop-opacity="0.9" />
+            <stop offset="100%" stop-color="#c20010" stop-opacity="0.9" />
+        </radialGradient>
+        <radialGradient id="radialgradient2" cx="50%" cy="50%" fx="50%" fy="50%" r="50%" >
+            <stop offset="0" stop-color="peru" stop-opacity="0.9" />
+            <stop offset="100%" stop-color="orange" stop-opacity="0.9" />
+        </radialGradient>
+    </defs>
+
+<g>
+        <circle r="30" cx="130" cy="100" fill="url(#radialgradient2)"/>
+        <line x1="100" y1="100" x2="160" y2="100" stroke-width="1" stroke="rgba(0,0,0,0.8)" />
+        <line x1="130" y1="70" x2="130" y2="130" stroke-width="1" stroke="rgba(0,0,0,0.8)" />
+        <animateTransform attributeType="xml" attributeName="transform" type="rotate"
+                from="0 130 100" to="360 130 100" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g>
+        <circle r="30" cx="75" cy="120" fill="url(#radialgradient1)"/>
+        <line x1="45" y1="120" x2="105" y2="120" stroke-width="1" stroke="rgba(0,0,0,0.8)" />
+        <line x1="75" y1="90" x2="75" y2="150" stroke-width="1" stroke="rgba(0,0,0,0.8)" />
+        <animateTransform attributeType="xml" attributeName="transform" type="rotate"
+                from="410 75 120" to="50 75 120" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g>
+        <circle r="15" cx="90" cy="80" fill="url(#radialgradient1)"/>
+        <line x1="75" y1="80" x2="105" y2="80" stroke-width="1" stroke="rgba(120,0,0,0.8)" />
+        <line x1="90" y1="65" x2="90" y2="95" stroke-width="1" stroke="rgba(120,0,0,0.8)" />
+        <animateTransform attributeType="xml" attributeName="transform" type="rotate"
+                from="75 90 80" to="435 90 80" dur="4s" repeatCount="indefinite"/>
+    </g>
+</svg>
 <svg width="300px" height="200px">
   <polygon points="100,10 40,198 190,78 10,78 160,198"
   style="fill:rgb(86, 133, 228);stroke:purple;stroke-width:5;fill-rule:evenodd;" />
